@@ -1,6 +1,6 @@
 ## **Array (배열)**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1eec8832-fa93-4c7d-9472-9f11a4a4a946/2df0e263-d8a8-45aa-b06a-8bca025618e7/Untitled.png)
+![ds1](../Image/ds1.png)
 
 ### 특징
 
@@ -33,7 +33,7 @@
 
 **2. 탐색** O(n)
 
-!https://blog.kakaocdn.net/dn/ebR7Gv/btqUWtaBdb1/PsZJhqmDd2BUy8b9OpJfw1/img.jpg
+![ds2](../Image/ds2.png)
 
 배열의 검색은 순차검색이다. 
 
@@ -43,7 +43,7 @@ A[3]의 값을 찾기 위해 A[0], A[1]... 을 순서대로 검색한다. 따라
 
 **3. 삽입, 삭제** O(1) ~ O(n) 
 
-!https://blog.kakaocdn.net/dn/ctbBif/btqU0xXor35/tv2mfnmBKKakoWTN1FokYk/img.jpg
+![ds3](../Image/ds3.png)
 
 A[6]에 5라는 값을 넣고, 혹은 빼고 싶을 때 해당 인덱스를 정확하게 알고 있다면 접근의 개념으로 O(1)의 시간복잡도를 가지지만 해당 인덱스를 찾아야한다면 검색의 시간복잡도인 O(n)에 해당한다.
 

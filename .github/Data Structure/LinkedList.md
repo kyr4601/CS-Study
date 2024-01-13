@@ -1,6 +1,6 @@
 ## **Linked List (연결 리스트)**
 
-!https://blog.kakaocdn.net/dn/cXClDJ/btq8vfOSH3l/FTjiXx0YgCsyf4C1qUNrvK/img.png
+![ds4](../Image/ds4.png)
 
 ### 특징
 
@@ -14,25 +14,25 @@
 
 각 노드에 자료 공간과 한 개의 포인터 공간이 있고, 각 노드의 포인터는 다음 노드를 가리킨다.
 
-!https://blog.kakaocdn.net/dn/bFgSeQ/btrCoXmJSWb/Akk3yXkpaRPaDKxv9krg00/img.png
+![ds6](../Image/ds6.png)
 
-!https://blog.kakaocdn.net/dn/bpxqG0/btrCqm679C3/8kFLWIcEsLvu8Kka72vKz1/img.png
+![ds5](../Image/ds5.png)
 
 - **이중 연결 리스트(Doubly linked list)**
 
 단순 연결 리스트는 현재 노드에서 다음 노드로 갈 수 있지만 이전 노드로는 갈 수 없다. 이러한 단점을 해결하기 위해 노드에 앞 노드의 메모리 주소를 보관하는 포인터 prev를 만들어준 형태를 이중 연결 리스트(Doubly Linked List) 라고 한다.
 
-!https://blog.kakaocdn.net/dn/WEnea/btrCrgefI0E/0PKGEyxLm5gK4bG6KsCTKK/img.png
+![ds7](../Image/ds7.png)
 
-!https://blog.kakaocdn.net/dn/Cohpq/btrCrOBPLs2/8d1Vs1rFxF21Rtbqq98mp0/img.png
+![ds8](../Image/ds8.png)
 
 - **원형 연결 리스트(Circular linked list)**
 
 원형 연결 리스트(Circle linked List)란 단순 연결 리스트(Singly Linked List)의 마지막 노드의 포인터가 NULL이 아닌 헤드를 가리키는 형태의 리스트이다.
 
-!https://blog.kakaocdn.net/dn/bFgSeQ/btrCoXmJSWb/Akk3yXkpaRPaDKxv9krg00/img.png
+![ds9](../Image/ds9.png)
 
-!https://blog.kakaocdn.net/dn/baTweJ/btrCqGK19ud/ZAFSrf5ErtkqxXL69MEF91/img.png
+![ds10](../Image/ds10.png)
 
 ### 시간 복잡도
 
@@ -58,3 +58,5 @@
 - 연결 리스트는 필요할 때마다 노드를 생성하여 연결하면 되기 때문에 메모리를 효율적으로 사용할 수 있다. (동적 할당)
 - 배열은 메모리 공간에 연속적으로 저장되어 있는 자료구조이다. 이러한 특징때문에 인덱스를 통한 접근이 용이하고, 데이터 외에 다른 정보를 저장할 필요가 없다.
 - 연결 리스트는 데이터를 저장할 공간 뿐만 아니라, 다음 노드의 주소를 저장하는 공간이 추가적으로 필요하다.
+
+![ds11](../Image/ds11.png)

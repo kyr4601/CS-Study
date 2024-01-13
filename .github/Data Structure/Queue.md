@@ -6,7 +6,7 @@
 
 스택(Stack)과는 반대되는 개념
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1eec8832-fa93-4c7d-9472-9f11a4a4a946/4bc2d855-c55e-4b6c-ad2f-2577f94c3919/Untitled.png)
+![ds14](../Image/ds14.png)
 
 큐에 `끝(Rear)`에서 요소를 추가하는 작업을 `enqueue`라고 하며 큐에 `맨 앞(Front)`에서 요소를 제거하는 작업을 `dequeue`라고 합니다.
 
@@ -22,7 +22,7 @@
 
 ### 시간복잡도
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1eec8832-fa93-4c7d-9472-9f11a4a4a946/6c18c7f8-d3ae-4217-8b03-70fd358c369d/Untitled.png)
+![ds15](../Image/ds15.png)
 
 ### 종류
 
@@ -40,4 +40,4 @@
     데이터가 배열의 끝에 다다르면 다시 처음으로 돌아올 수 있어 이미 사용했던 부분도 재사용 가능 (선형 큐와 달리 메모리 낭비X)
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1eec8832-fa93-4c7d-9472-9f11a4a4a946/4326364f-99c2-4f97-ac8e-fe4aab170e0b/Untitled.png)
+![ds16](../Image/ds16.png)
