@@ -8,7 +8,7 @@
 
 ![https://blog.kakaocdn.net/dn/ubZ8s/btq98vwYv3i/wLL4xuowPj5IkPiTLu0JF0/img.png](https://blog.kakaocdn.net/dn/ubZ8s/btq98vwYv3i/wLL4xuowPj5IkPiTLu0JF0/img.png)
 
-*발신에서 착신까지의 패킷 경로를 제어한다.*
+*발신에서 착신까지의 패킷 경로를 제어한다 .*
 
 3계층은 다른 네트워크 대역,
 
