@@ -9,7 +9,7 @@
 
 ### TCP/IP stack
 
-**TCP/IP stack은 인터넷이 발명되면서 함께 개발된 프로토콜 스택이다.**
+**TCP/IP stack은 인터넷이 발명되면서 함께 개발된 프로토콜 스택이다 .**
 
 - IETF에서 인터넷 표준을 관리한다.(RFC)
 - TCP, UDP, IP.. 스펙은 RFC에서 정의한다.

@@ -12,7 +12,7 @@
 
 3계층은 다른 네트워크 대역,
 
-멀리 떨어진 곳에 존재하는 네트워크까지 어떻게 데이터를 전달할지 제어하는 일을 담당한다.
+멀리 떨어진 곳에 존재하는 네트워크까지 어떻게 데이터를 전달할지 제어하는 일을 담당한다 .
 
 ![https://blog.kakaocdn.net/dn/bawB9z/btq96Eg8ym1/wlVkmee21KVjxVKCb6N8Z0/img.png](https://blog.kakaocdn.net/dn/bawB9z/btq96Eg8ym1/wlVkmee21KVjxVKCb6N8Z0/img.png)
 
