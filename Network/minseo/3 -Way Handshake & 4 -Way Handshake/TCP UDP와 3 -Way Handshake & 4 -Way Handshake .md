@@ -6,7 +6,7 @@
 
 ```c
 int main(){
-	sock = socket(AF_INFT, SOCK_STREAM, 0);
+	sock = socket(AF_INFT, SOCK_STREAM, 0) ;
     ..
     bind( ~)
     ..
